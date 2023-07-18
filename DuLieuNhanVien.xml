@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QuanLiNhanVien>
+        <NhanVien MaSoNhanVien = "0001" TenNhanVien = "Nguyen Van A" ChucVu = "Nhan Vien" NgayThangNamSinh = "16081996" NgayThangNamVaoCty ="01012023" LuongCanBan ="8000000" SoNgayLamViec = "22"  Thuong ="1754000" />
+        <NhanVien MaSoNhanVien = "0002" TenNhanVien = "Nguyen Van B" ChucVu = "Quan li" NgayThangNamSinh = "16081997" NgayThangNamVaoCty ="01012023" LuongCanBan ="9000000" SoNgayLamViec = "20"  Thuong ="1800000" />
+        <NhanVien MaSoNhanVien = "0003" TenNhanVien = "Nguyen Van C" ChucVu = "Nhan Vien" NgayThangNamSinh = "16081999" NgayThangNamVaoCty ="01012023" LuongCanBan ="9000000" SoNgayLamViec = "20"  Thuong ="1900000" />
+        <NhanVien MaSoNhanVien = "0004" TenNhanVien = "Nguyen Van D" ChucVu = "Quan li" NgayThangNamSinh = "15071999" NgayThangNamVaoCty ="01012023" LuongCanBan ="9000000" SoNgayLamViec = "21"  Thuong ="2000000" />
+        <NhanVien MaSoNhanVien = "0005" TenNhanVien = "Nguyen Van E" ChucVu = "Truong Nhom" NgayThangNamSinh = "13081996" NgayThangNamVaoCty ="01012023" LuongCanBan ="10000000" SoNgayLamViec = "20"  Thuong ="2100000" />
+        <NhanVien MaSoNhanVien = "0006" TenNhanVien = "Nguyen Van F" ChucVu = "Nhan Vien" NgayThangNamSinh = "12012000" NgayThangNamVaoCty ="01012023" LuongCanBan ="5000000" SoNgayLamViec = "22"  Thuong ="2250000" />
+        <NhanVien MaSoNhanVien = "0007" TenNhanVien = "Nguyen Van G" ChucVu = "Nhan Vien" NgayThangNamSinh = "11022001" NgayThangNamVaoCty ="01012023" LuongCanBan ="4000000" SoNgayLamViec = "22"  Thuong ="1540000" />
+</QuanLiNhanVien>
